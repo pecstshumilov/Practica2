@@ -1,0 +1,18 @@
+*.xml
+*.html
+*.[1-8]
+*.сделано
+*.texi
+*.pdf
+git.info
+gitman.info
+howto-index.txt
+документ.деп
+cmds-*.txt
+инструменты слияния-*.txt
+страница руководства-база-url.xsl
+SubmittingPatches.txt
+tmp-doc-diff/
+GIT-ASCIIDOCFLAGS
+/.build/
+/GIT-ИСКЛЮЧЕННЫЕ-ПРОГРАММЫ
